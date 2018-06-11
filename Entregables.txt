@@ -1,0 +1,5 @@
+Documento Propuesta
+Especificacion de Requerimeinto
+Modelo de BD y DDL y copia
+Arquitectura planteada y Fuentes
+Estado del desarrollo
